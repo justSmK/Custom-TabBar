@@ -15,6 +15,7 @@
 		BBEA441028B6332100085AF6 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBEA440F28B6332100085AF6 /* HomeViewController.swift */; };
 		BBEA441228B6335F00085AF6 /* PersonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBEA441128B6335F00085AF6 /* PersonViewController.swift */; };
 		BBEA441428B6338300085AF6 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBEA441328B6338300085AF6 /* SettingsViewController.swift */; };
+		BBEA441628B6368400085AF6 /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BBEA441528B6368400085AF6 /* UIColorExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		BBEA440F28B6332100085AF6 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		BBEA441128B6335F00085AF6 /* PersonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonViewController.swift; sourceTree = "<group>"; };
 		BBEA441328B6338300085AF6 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		BBEA441528B6368400085AF6 /* UIColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				BBEA43FB28B631EA00085AF6 /* AppDelegate.swift */,
 				BBEA43FD28B631EA00085AF6 /* SceneDelegate.swift */,
 				BBEA43FF28B631EA00085AF6 /* MainTabBarController.swift */,
+				BBEA441528B6368400085AF6 /* UIColorExtension.swift */,
 				BBEA440F28B6332100085AF6 /* HomeViewController.swift */,
 				BBEA441128B6335F00085AF6 /* PersonViewController.swift */,
 				BBEA441328B6338300085AF6 /* SettingsViewController.swift */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BBEA441228B6335F00085AF6 /* PersonViewController.swift in Sources */,
+				BBEA441628B6368400085AF6 /* UIColorExtension.swift in Sources */,
 				BBEA440028B631EA00085AF6 /* MainTabBarController.swift in Sources */,
 				BBEA43FC28B631EA00085AF6 /* AppDelegate.swift in Sources */,
 				BBEA43FE28B631EA00085AF6 /* SceneDelegate.swift in Sources */,
